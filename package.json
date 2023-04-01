@@ -1,5 +1,5 @@
 {
-  "name": "red-contrib-malloy",
+  "name": "node-red-contrib-malloy",
   "version": "0.0.1",
   "description": "",
   "main": "index.js",
